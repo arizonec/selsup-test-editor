@@ -1,5 +1,5 @@
 import { FC, useState } from "react";
-import './Editor.css'
+import './Editor.scss'
 
 type Param = {
     id: number;

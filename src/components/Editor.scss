@@ -1,0 +1,17 @@
+
+.editor{
+    &-element{
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &-label{
+        margin-right: 10px;
+    }
+}
+
+
+.show-btn {
+    margin-bottom: 10px;
+}
